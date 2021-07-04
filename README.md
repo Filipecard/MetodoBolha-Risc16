@@ -1,7 +1,7 @@
 # Passo a passo do metodo bolha:
 
 1. carrega o valor de neg = -32768 
-```lw 6,0,neg ```
+`lw 6,0,neg `
 
 2. carrega o valor de n= 5 
 ```lw 7,0,n```	
