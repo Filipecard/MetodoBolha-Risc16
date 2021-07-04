@@ -1,7 +1,7 @@
 # Passo a passo do metodo bolha:
 
 ```t
-carrega o valor de neg = -32768 
+#carrega o valor de neg = -32768 
 lw 6,0,neg     	
 
 #carrega o valor de n= 5 
